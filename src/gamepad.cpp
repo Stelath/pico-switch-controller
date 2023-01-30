@@ -36,7 +36,8 @@ void Gamepad::read()
 
 	state.buttons = 0;
 
-	state.lx = GAMEPAD_JOYSTICK_MID;
+	// state.lx = GAMEPAD_JOYSTICK_MID;
+	state.lx = 0;
 	state.ly = GAMEPAD_JOYSTICK_MID;
 	state.rx = GAMEPAD_JOYSTICK_MID;
 	state.ry = GAMEPAD_JOYSTICK_MID;
