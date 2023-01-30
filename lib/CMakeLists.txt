@@ -1,0 +1,6 @@
+add_subdirectory(AnimationStation)
+add_subdirectory(CRC32)
+add_subdirectory(FlashPROM)
+add_subdirectory(NeoPico)
+add_subdirectory(PlayerLEDs)
+add_subdirectory(TinyUSB_Gamepad)
